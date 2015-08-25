@@ -1,0 +1,23 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
+#veggies {
+	background-color: #26AF50;
+}
+#fruits {
+	background-color: #814598;
+}
+#carbs {
+	background-color: #E8E33A;
+}
+#healthyfats {
+	background-color: #4863AA;
+}
+#seeds {
+	background-color: #F48731;
+}
+#proteins {
+	background-color: #D2232E;
+}
+#misc {
+	background-color: #ADACAC;
+}
